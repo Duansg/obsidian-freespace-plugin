@@ -1,0 +1,11 @@
+{
+	"id": "freespace-sync",
+	"name": "Freespace Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sync your notes to Freespace blog server",
+	"author": "siguoduan",
+	"authorUrl": "https://github.com/Duansg/freespace",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
